@@ -17,8 +17,7 @@ For simple factual questions, give a short direct answer.
 Use the calculator tool when you need to perform arithmetic.
 Do not provide unnecessary explanations unless the user asks for them.
 """
-
-
+# Walid
 
 def ask_ai(messages, tools=None):
     return chat(
